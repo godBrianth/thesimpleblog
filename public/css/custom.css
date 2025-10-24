@@ -1,0 +1,26 @@
+/* .hextra-sidebar-container {
+  display: none !important;
+} */
+
+.content {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+.hextra-custom-footer {
+  /* Điều chỉnh giá trị '4rem' (khoảng 64px) cho đến khi đạt khoảng cách mong muốn */
+  padding-top: 2rem !important; 
+}
+
+h1 {
+  /* Tăng khoảng lề dưới (margin-bottom) cho H1 */
+  /* Giá trị 1.5rem (khoảng 24px) là mức phổ biến. Tăng lên 2rem, 3rem nếu muốn khoảng cách lớn hơn */
+  margin-bottom: 30px !important; 
+}
+
+h2 + p img {
+  width: 300px;
+  height: 400px;
+  float: left;
+  padding: 10px;
+}
