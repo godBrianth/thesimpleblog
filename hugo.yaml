@@ -29,7 +29,7 @@ summaryLength: 30 # Đặt độ dài tóm tắt là 50 từ (Mặc định là 
 enableInlineShortcodes: true
 disableAliases: true
 permalinks:
-  home: "/thesimpleblog/"
+  home: "/"
 params:
   # Thêm đường dẫn đến tệp CSS tùy chỉnh
   customCss:
@@ -42,6 +42,6 @@ params:
     logo:
       path: images/logo.svg       # Đường dẫn Logo cho chế độ SÁNG (hoặc mặc định)
       dark: images/logo-dark.svg  # Đường dẫn Logo cho chế độ TỐI
-      link: /                      # Đường dẫn khi nhấp vào logo
+      link: /thesimpleblog/                      # Đường dẫn khi nhấp vào logo
       width: 20                    # Chiều rộng logo (tính bằng pixel)
       height: 20                   # Chiều cao logo (tính bằng pixel)
