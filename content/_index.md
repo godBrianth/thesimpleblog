@@ -2,7 +2,7 @@
 # content/home/_index.md
 title: "" 
 date: 2025-10-23T12:15:00+07:00
-draft: false  
+draft: true  
 # BẮT BUỘC: Thiết lập kiểu trang đích
 description: "Nơi chia sẻ kiến thức hữu ích về Java và Javascript."
 ---
