@@ -5,16 +5,14 @@ date: 2025-10-23T12:15:00+07:00
 draft: false  
 # BẮT BUỘC: Thiết lập kiểu trang đích
 description: "Nơi chia sẻ kiến thức hữu ích về Java và Javascript."
-cascade:
-  type: docs
 ---
 # Nơi chia sẻ kiến thức hữu ích về Java và Javascript.
-{{< hextra/hero-button text="Bắt đầu ngay" link="/blog" >}}
+{{< hextra/hero-button text="Bắt đầu ngay" link="/thesimpleblog/blog/" >}}
 
 ## Giới thiệu bản thân
 
 ![](z7149074105680_39da0de904b4a0b8c42c2fc6959c2854.jpg) 
-Chào mừng đến với Blog của tôi! Tôi tên là **Lý Tấn Hưng**, một sinh viên ngành **Công nghệ thông tin** hiện đã dày dặn kiến thức về Java và Javascript và vẫn còn đang học hỏi, khám phá thêm nhiều kiến thức mới.
+Chào mừng đến với Blog của tôi! Tôi tên là **Lý Tấn Hưng**, một sinh viên năm 3 ngành **Công nghệ thông tin** hiện đã dày dặn kiến thức về Java và Javascript và vẫn còn đang học hỏi, khám phá thêm nhiều kiến thức mới.
 
 Blog này được lập ra nhằm mục đích **chia sẻ kiến thức, kinh nghiệm thực tế, và các giải pháp đã được chứng minh trong quá trình học hỏi của tôi**.
 
