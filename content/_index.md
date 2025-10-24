@@ -5,6 +5,8 @@ date: 2025-10-23T12:15:00+07:00
 draft: false  
 # BẮT BUỘC: Thiết lập kiểu trang đích
 description: "Nơi chia sẻ kiến thức hữu ích về Java và Javascript."
+cascade:
+    type: blog
 ---
 # Nơi chia sẻ kiến thức hữu ích về Java và Javascript.
 {{< hextra/hero-button text="Bắt đầu ngay" link="/thesimpleblog/blog/" >}}
