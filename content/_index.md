@@ -7,7 +7,7 @@ draft: false
 description: "Nơi chia sẻ kiến thức hữu ích về Java và Javascript."
 ---
 # Nơi chia sẻ kiến thức hữu ích về Java và Javascript.
-{{< hextra/hero-button text="Bắt đầu ngay" link="/blog" >}}
+{{< hextra/hero-button text="Bắt đầu ngay" link="/thesimpleblog/blog/" >}}
 
 ## Giới thiệu bản thân
 
