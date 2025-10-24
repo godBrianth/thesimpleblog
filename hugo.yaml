@@ -29,7 +29,7 @@ summaryLength: 30 # Đặt độ dài tóm tắt là 50 từ (Mặc định là 
 enableInlineShortcodes: true
 disableAliases: true
 permalinks:
-  home: "/"
+  home: "/thesimpleblog/"
 params:
   # Thêm đường dẫn đến tệp CSS tùy chỉnh
   customCss:
